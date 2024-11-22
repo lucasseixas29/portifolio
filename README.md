@@ -21,4 +21,4 @@ Olá, sou o **Luis Lucas Seixas**, Analista de Dados. Atualmente trabalho na **D
 Dados reais sobre os produtos vendidos pela empresa brasileira **Olist**, um E-commerce que forneceu informações por meio do [dataset no Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).  
 Neste projeto, realizei análises respondendo a perguntas de negócio utilizando consultas **SQL**.
 
-📝 Leia mais sobre a análise no [Medium](https://medium.com/@lucasseixas__/sql-query-análise-de-dados-brazilian-e-commerce-public-dataset-by-olist-92f5bb3730b5).
+📝 Leia mais sobre a análise no <a href="https://medium.com/@lucasseixas__/sql-query-análise-de-dados-brazilian-e-commerce-public-dataset-by-olist-92f5bb3730b5" target="_blank">Medium</a>.
